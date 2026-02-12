@@ -25,6 +25,8 @@ https://habr.com/ru/post/235095/
 
 https://ideanomics.ru/articles/7981
 
+https://youtu.be/WooElIJrZkA
+
 ### SQ3R: Survey-Question-Read-Recite-Review. Методика усвоения прочитанного материала.
 
 1. Survey, исследование:
@@ -40,6 +42,8 @@ https://ideanomics.ru/articles/7981
 ## Конспектирование
 
 ### Метод Корнелла
+
+https://lifehacker.ru/metod-kornella/
 
 ### Метод интеллектуальных карт (mind maps)
 
