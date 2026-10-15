@@ -1,0 +1,26 @@
+title: Selfed
+description: Self-education/development text collection
+
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://xiaolanchong.github.io"
+baseurl: "/selfed"
+
+plugins:
+  - jekyll-remote-theme
+
+# Enable search
+search_enabled: true
+
+# Navigation
+nav_enabled: true
+
+# Appearance
+color_scheme: dark
+
+# Links in the top-right corner
+aux_links:
+  "View on GitHub":
+    - "https://github.com/xiaolanchong/selfed"
+
+aux_links_new_tab: true
