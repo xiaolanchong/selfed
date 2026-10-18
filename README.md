@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Главная
 nav_order: 1
 permalink: /
 ---
@@ -17,21 +17,20 @@ Isaac Asimov
 
 ### Курс Барбары Оакли "Учиться чтобы учиться".
 
-https://ru.coursera.org/learn/learnhow
+[Coursera](https://www.coursera.org/learn/learning-how-to-learn)
 
-Краткий конспект
-https://habr.com/ru/post/235095/
+[Краткий конспект](https://habr.com/ru/post/235095)
 
 Еще короче:
 -  Сосредоточенный и рассеяный режимы работы мозга. Отсюда техника помидоро: 25 мин работы - 5 мин отдыха.
--  Чанкинг - укрупнение блоков информации при продвижении на верхний уровень понятий.
+-  Чанкинг - укрупнение блоков информации при продвижении на понятия верхнего уровеня (более общие).
 
 
 ### Методика усвоения нового материала Ричарда Фейнмана.
 
-https://ideanomics.ru/articles/7981
-
-https://youtu.be/WooElIJrZkA
+[Метод Фейнмана: три шага, которые позволяют быстро освоить любой предмет](https://ideanomics.ru/articles/7981)
+ 
+[The Feynman Technique](https://youtu.be/tkm0TNFzIeg?si=A-twSrh4XrATlv2f)
 
 ### SQ3R: Survey-Question-Read-Recite-Review. Методика усвоения прочитанного материала.
 
@@ -49,7 +48,7 @@ https://youtu.be/WooElIJrZkA
 
 ### Метод Корнелла
 
-https://lifehacker.ru/metod-kornella/
+[Как записывать лекции по методу Корнелла](https://lifehacker.ru/metod-kornella)
 
 ### Метод интеллектуальных карт (mind maps)
 
